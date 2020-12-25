@@ -36,7 +36,7 @@ export const mainListItems: any = (
       <ListItemText primary="Orders" />
     </ListItem>
     <ListItem button>
-      <ListItemIcon>
+      <ListItemIcon>     
         <PeopleIcon />
       </ListItemIcon>
       <ListItemText primary="Customers" />
@@ -53,6 +53,7 @@ export const mainListItems: any = (
       </ListItemIcon>
       <ListItemText primary="Integrations" />
     </ListItem> */}
+    
   </div>
 );
 
